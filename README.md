@@ -1,1 +1,3 @@
-# Homework1
+# Homework1 Cod Refactoring
+
+## Description
