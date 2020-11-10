@@ -15,16 +15,16 @@ header {
     color: #ffffff;
 }
 
-header #mainH1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-header #mainH1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
-header {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ header {
     font-size: 20px;
 }
 
- ul {
+ header nav ul {
     list-style-type: none;
 }
 
- nav ul li {
+ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
